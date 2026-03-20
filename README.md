@@ -17,8 +17,6 @@ An AI-powered travel planner that generates personalized itineraries based on us
 ## 📸 Preview
 
 ![App Screenshot](Screenshot-1.png)
-![App Screenshot](Screenshot-2.png)
-![App Screenshot](Screenshot-3.png)
 
 ---
 
@@ -31,11 +29,3 @@ An AI-powered travel planner that generates personalized itineraries based on us
 - ReportLab  
 
 ---
-
-## ⚙️ Setup Instructions
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/YOUR_USERNAME/ai-trip-planner.git
-cd ai-trip-planner
