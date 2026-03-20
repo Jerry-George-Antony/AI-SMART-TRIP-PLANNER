@@ -16,7 +16,9 @@ An AI-powered travel planner that generates personalized itineraries based on us
 
 ## 📸 Preview
 
-![App Screenshot](screenshot.png)
+![App Screenshot](Screenshot-1.png)
+![App Screenshot](Screenshot-2.png)
+![App Screenshot](Screenshot-3.png)
 
 ---
 
