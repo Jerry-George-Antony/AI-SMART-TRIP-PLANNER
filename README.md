@@ -29,3 +29,11 @@ An AI-powered travel planner that generates personalized itineraries based on us
 - ReportLab  
 
 ---
+
+## 💡 How It Works
+
+1. User enters trip details (budget, days, type)
+2. Prompt is sent to LLM via Groq API
+3. AI generates structured itinerary (CSV + summary)
+4. Data is parsed using pandas
+5. Displayed in table format + downloadable PDF
